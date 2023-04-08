@@ -6,3 +6,6 @@ if __name__ == '__main__':
     student = MangerSystem()
 
     student.run()
+
+
+# 正式结束
